@@ -5,3 +5,6 @@ Allows the insert, edit ad delete of each blog post
 
 Technologies used:
 Python, Flask, HTML, CSS
+
+
+To make it work simply activate app.py file in a Python evironment
